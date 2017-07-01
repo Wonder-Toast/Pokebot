@@ -9,7 +9,8 @@ const client = new CommandoClient({
   unknownCommandResponse: false,
   owner: ['193378071141810176', '138431969418543104'],
   clientOptions: { disabledEvents: ['USER_NOTE_UPDATE', 'VOICE_STATE_UPDATE', 'TYPING_START', 'VOICE_SERVER_UPDATE', 'PRESENCE_UPDATE'] },
-  disableEveryone: true
+  disableEveryone: true,
+  invite: 'https://discord.gg/A8jBRN9'
 });
 
 client.registry
@@ -23,7 +24,7 @@ client.registry
   .registerDefaultCommands({ ping: false, help: false })
   .registerCommandsIn(path.join(__dirname, 'commands'));
 
-sqlite.open(path.join(__dirname, 'settings.sqlite3')).then((db) => {
+sqlite.open(path.join(__dirname, 'assets', 'sqlite', 'settings.sqlite3')).then((db) => {
   client.setProvider(new SQLiteProvider(db));
 });
 
