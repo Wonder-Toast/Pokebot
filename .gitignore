@@ -1,3 +1,4 @@
 src/config.json
 src/node_modules
 src/data/settings.sqlite3
+src/data/json/members.json
