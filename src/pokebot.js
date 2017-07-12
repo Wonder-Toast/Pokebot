@@ -18,8 +18,7 @@ client.registry
   .registerGroups([
     ['util', 'Utility'],
     ['pokemon', 'Pokemon'],
-    ['commands', 'Commands'],
-  	['sudo', 'Owners']
+    ['commands', 'Commands']
   ])
   .registerDefaultGroups()
   .registerDefaultCommands({ ping: false, help: false })
