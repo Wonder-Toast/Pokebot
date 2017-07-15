@@ -1,5 +1,5 @@
 const { Command } = require('discord.js-commando');
-const randomPokemon = require('pokemon-random-name');
+const randomPokemon = require('pokemon-random');
 const fs = require('fs');
 const path = require('path');
 const jsonPath = path.join(__dirname, '..', '..', 'data/pokemon.json');
