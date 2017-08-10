@@ -1,10 +1,10 @@
-<div align="center">
+
   <br />
   <p>
     <a href="https://goo.gl/FegjFz"><img src="https://media.discordapp.net/attachments/344651822331592724/345001623871029259/1502325191245.jpg" width="546" alt="discord.js" /></a>
   </p>
   <br />
-</div>
+
 
 
 Pokémon for Discord yo.
