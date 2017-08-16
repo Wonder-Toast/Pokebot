@@ -1,7 +1,7 @@
 
   <br />
   <p>
-    <a href="https://goo.gl/FegjFz"><img src="https://media.discordapp.net/attachments/344651822331592724/345001623871029259/1502325191245.jpg" width="546" alt="discord.js" /></a>
+    <a href="https://goo.gl/FegjFz"><img src="https://images-ext-2.discordapp.net/external/GJQfVWAq3XWpcfyqmQPYNWysJbbYMBFdmjTR6kPzQW4/http/i.imgur.com/gdoTNNy.png" width="546" alt="discord.js" /></a>
   </p>
   <br />
 
