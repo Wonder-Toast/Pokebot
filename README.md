@@ -16,4 +16,4 @@ You're not allowed to host this bot sorry. You can invite me [here](https://disc
 <!-- [![](https://discordapp.com/api/guilds/334745231163654145/embed.png?style=banner2)](https://discord.gg/3Chh8gu) -->
  
  ---
- "Discord", "Discord App", and any associated logos are registered trademarks of Hammer & Chisel, inc.
+<!-- "Discord", "Discord App", and any associated logos are registered trademarks of Hammer & Chisel, inc. -->
