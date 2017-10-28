@@ -2,7 +2,7 @@ const { Command } = require('discord.js-commando');
 const fs = require('fs');
 const path = require('path');
 
-module.exports = class InventoryCommand extends Command {
+module.exports = class InventoryCmd extends Command {
   constructor(client) {
     super(client, {
       name: 'inventory',
