@@ -1,4 +1,4 @@
-const { Command } = require('discord.js-commando');
+const { Command } = require('../../assets/cmd/class.js');
 const fs = require('fs');
 const path = require('path');
 
@@ -28,15 +28,10 @@ module.exports = class InventoryCmd extends Command {
   }
 
   async run(msg, args) {
-    const data = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '..', 'data/pokemon.json'), 'utf8'));
+    const data = JSON.parse(fs.readFileSync(path.join(__dirname, '..', '..', 'data/pokemon'), 'utf8'));
     const user = args.user || msg.author;
 
     if (!data[user.id]) return msg.say('That user has no pokemon!');
-
-    const toSend = new Array();
-    Object.keys(data[user.id].pokemon).forEach(key => {
-      toSend.push(data[user.id].pokemon[key].name);
-    });
 
     function showPage(page, m) {
       if (toSend.length < 20) return m.edit(':no_entry_sign: No Pokemon on this page!');
