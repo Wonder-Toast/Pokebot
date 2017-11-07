@@ -1,10 +1,8 @@
-const { Command } = require('discord.js-commando');
-const { RichEmbed } = require('discord.js');
+
 const events = require('events');
-const pokemonEvent = new events.EventEmitter();
 const fs = require('fs');
 const path = require('path');
-const jsonPath = path.join(__dirname, '..', '..', 'data/pokemon.json');
+const jsonPath = path.join(__dirname, '..', '..', 'data/pokemon1.json');
 
 module.exports = class TradeCommand extends Command {
   constructor(client) {
