@@ -1,4 +1,8 @@
+<a href="https://discordbots.org/bot/330488924449275916?utm_source=widget">
+  <img src="https://discordbots.org/api/widget/servers/330488924449275916.png?noavatar=true" alt="Discord Bots" />
+    <img src="https://discordbots.org/api/widget/status/330488924449275916.png?noavatar=true" alt="Discord Bots" />
 
+</a>
   <br />
   <p>
     <a href="https://discord.gg/3Chh8gu"><img src="https://images-ext-2.discordapp.net/external/GJQfVWAq3XWpcfyqmQPYNWysJbbYMBFdmjTR6kPzQW4/http/i.imgur.com/gdoTNNy.png" width="546" alt="discord.js" /></a>
