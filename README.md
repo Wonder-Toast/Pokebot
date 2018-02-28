@@ -1,5 +1,4 @@
 <a href="https://discordbots.org/bot/330488924449275916?utm_source=widget">
-  <img src="https://discordbots.org/api/widget/servers/330488924449275916.png" alt="Discord Bots" />
   <img src="https://discordbots.org/api/widget/status/330488924449275916.png" alt="Discord Bots" />
 
 </a>
