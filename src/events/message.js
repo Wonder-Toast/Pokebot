@@ -12,5 +12,6 @@ exports.run = async (client, msg) => {
   if (msg.content.startsWith(msg.guild ? msg.guild.commandPrefix : prefix)) {
     stats.commands++;
     fs.writeFileSync(statsPath, JSON.stringify(stats));
+    
   }
 }
