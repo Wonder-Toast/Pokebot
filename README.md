@@ -10,7 +10,7 @@
 
 
 
-Pokémon for Discord yo.
+The First Pokemon Capturing Discord Bot!
 
 **Hosting**
 You're not allowed to host this bot sorry. You can invite me [here](https://discordapp.com/oauth2/authorize?client_id=330488924449275916&scope=bot&permissions=268746822) or join the offical server by clicking the image. 
