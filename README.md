@@ -4,7 +4,7 @@
 </a>
   <br />
   <p>
-    <a href="https://discord.gg/3Chh8gu"><img src="https://images-ext-2.discordapp.net/external/GJQfVWAq3XWpcfyqmQPYNWysJbbYMBFdmjTR6kPzQW4/http/i.imgur.com/gdoTNNy.png" width="546" alt="discord.js" /></a>
+    <a href="https://discord.gg/3Chh8gu"><img src="https://i.imgur.com/dsxe65s.jpg" width="546" alt="discord.js" /></a>
   </p>
   <br />
 
